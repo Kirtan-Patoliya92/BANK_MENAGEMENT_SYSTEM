@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Kirtan a patoliya",
+        "age": 18,
+        "email": "kirtanpatoliya69@gmail.com",
+        "pin": "6996",
+        "account": "WQN08268",
+        "balance": 99
+    },
+    {
+        "name": "Kirtan ",
+        "age": 18,
+        "email": "kirtan123@gmail.com",
+        "pin": "1234",
+        "account": "PKU40672",
+        "balance": 9999 
+    },
+
+    {
+        "name": "Kirtan a",
+        "age": 18,
+        "email": "xyz@gmail.com",
+        "pin": "1234",
+        "account": "DQC71945",
+        "balance": 0
+    }
+]
